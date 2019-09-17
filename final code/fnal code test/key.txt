@@ -1,0 +1,3 @@
+int dhaka
+float ctg
+int week

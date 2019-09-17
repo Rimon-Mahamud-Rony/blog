@@ -1,0 +1,9 @@
+//accha tumi emon keno?
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"rimon mahamud rony";
+	//kene cholor;
+	/* compiler lab test comment*/
+}
